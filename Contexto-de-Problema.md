@@ -1,4 +1,4 @@
-**Kata Arquitecto Soluciones – Actualización Sistema de Acciones**
+**Contexto del Problema**
 
 A partir de un escenario real de la organización, hemos construido un contexto supuesto en el cual tenemos como objetivo modernizar el sistema de acciones que actualmente apoya la generación de dividendos para los accionistas. El sistema es un aplicativo legado que tiene varios limitantes, por lo cual se decidió modernizarlo, manteniendo y mejorando las funcionalidades que ofrece. Para ello, se debe analizar el contexto del problema y a partir de artefactos arquitectónicos proponer un diseño que contemple la solución desde diferentes puntos de vista arquitecturales.
 
